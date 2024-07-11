@@ -63,7 +63,7 @@
         if( weight >0 && height >0)
         {
             
-            let heightinmeter= height/1000;
+            let heightinmeter= height/100;
             let bmi =(weight/(heightinmeter*heightinmeter)).toFixed(2);
             document.getElementById('divresult').value = '';
              document.getElementById('divbmi').textContent = 'Your BMI is: ' + bmi;
