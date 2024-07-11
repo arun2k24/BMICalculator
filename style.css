@@ -1,0 +1,27 @@
+.container {
+    max-width: 277px;
+    margin: 84px 68px 45px 201px;
+    padding: 30px 285px 83px 383px;
+    background-color: #FFFED3;
+    border: 46px solid salmon;
+    height: 271px;
+    width: 253px;
+}
+p{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: auto;
+}
+#calculate{
+    justify-content: space-between;
+    color: darkcyan;
+    margin: right;
+}
+h1{
+    color: 7E8EF1;
+}
+#Reset{
+
+    margin:right
+}
